@@ -1,8 +1,5 @@
 # 🚍 Urban Transit Analysis: Chicago vs. Philadelphia (2019-2025)
 
-![Dashboard Preview](screenshots/dashboard_overview.png)
-*(Note: Replace the link above with your actual screenshot path)*
-
 ## 📌 Project Overview
 **The Challenge:** Public transit systems worldwide faced an unprecedented collapse in ridership due to the 2020 pandemic. This project analyzes **5+ years of data** from Chicago (CTA) and Philadelphia (SEPTA) to quantify the recovery, identify mode-shift trends, and provide operational recommendations.
 
@@ -40,3 +37,4 @@
 1.  Clone this repository.
 2.  Open `Transit_Analysis.pbix` in **Power BI Desktop**.
 3.  The dataset is embedded; no external database connection is required.
+
