@@ -38,3 +38,15 @@
 2.  Open `Transit_Analysis.pbix` in **Power BI Desktop**.
 3.  The dataset is embedded; no external database connection is required.
 
+## 📅 Project Management
+This project was managed using **Jira** to simulate a real-world Agile workflow. I utilized a Kanban board to track data engineering tasks, measure progress, and manage the backlog of user stories.
+
+* **Methodology:** Agile / Kanban
+* **Tracking:** Jira Software
+* **Key Epics:** Data Cleaning (ETL), Data Modeling (Galaxy Schema), Dashboard Design.
+
+[**🔗 View the Jira Project Board**] (https://mohamefamine2006.atlassian.net/?continue=https%3A%2F%2Fmohamefamine2006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZDYzMmI0MjNlNjZhNDM2NzkwNzFlMzQyMTIyZDdhMWYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
+
+![Jira Board Preview]<img width="1647" height="822" alt="image" src="https://github.com/user-attachments/assets/912b253c-ca1f-42cb-b212-45b5a32ca36f" />
+
+
