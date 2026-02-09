@@ -22,7 +22,7 @@
 * **Trend Analysis:** Dual-axis line charts standardizing daily vs. monthly granularities.
 * **Mode Split:** Automated breakdown of Bus vs. Rail performance.
 
-<img width="1311" height="727" alt="Screenshot 2026-02-08 181745" src="https://github.com/user-attachments/assets/c1ee70e4-1d9a-490b-945c-86a246d2bb4f" />
+<img width="1282" height="722" alt="Screenshot 2026-02-09 103651" src="https://github.com/user-attachments/assets/77485445-a1c3-4ae5-b1b7-725e83ecba60" />
 
 
 ### Page 2: Chicago Deep Dive
@@ -48,6 +48,7 @@ This project was managed using **Jira** to simulate a real-world Agile workflow.
 [**🔗 View the Jira Project Board**] (https://mohamefamine2006.atlassian.net/?continue=https%3A%2F%2Fmohamefamine2006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZDYzMmI0MjNlNjZhNDM2NzkwNzFlMzQyMTIyZDdhMWYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
 
 ![Jira Board Preview]<img width="1647" height="822" alt="image" src="https://github.com/user-attachments/assets/912b253c-ca1f-42cb-b212-45b5a32ca36f" />
+
 
 
 
