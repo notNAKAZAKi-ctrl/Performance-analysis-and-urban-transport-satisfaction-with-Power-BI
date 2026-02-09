@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 **The Challenge:** Public transit systems worldwide faced an unprecedented collapse in ridership due to the 2020 pandemic. This project analyzes **5+ years of data** from Chicago (CTA) and Philadelphia (SEPTA) to quantify the recovery, identify mode-shift trends, and provide operational recommendations.
 
-**The Solution:** I built a dynamic **Power BI Dashboard** using a **Galaxy Schema** architecture to integrate Daily data (Chicago) with Monthly data (SEPTA), enabling side-by-side comparison despite different granularities.
+**The Solution:** I built a dynamic **Power BI Dashboard** using a **Star Schema** architecture to integrate Daily data (Chicago) with Monthly data (SEPTA), enabling side-by-side comparison despite different granularities.
 
 ## 🔑 Key Insights & Findings
 1.  **The "Bus Resilience" Phenomenon:** Bus ridership has recovered significantly faster than Rail in both cities. In Chicago, bus volume is currently at **[X]%** of pre-pandemic levels, suggesting a reliance on essential local travel over downtown commuting.
@@ -12,7 +12,7 @@
 
 ## 🛠️ Technical Stack
 * **Tool:** Power BI Desktop
-* **Data Modeling:** Galaxy Schema (Star Schema variation with multiple Fact tables).
+* **Data Modeling:** Star Schema
 * **ETL:** Power Query (M Language) for cleaning, unpivoting, and standardizing date formats.
 * **Analysis:** DAX (Data Analysis Expressions) for Time Intelligence and YoY Growth calculations.
 
@@ -48,5 +48,6 @@ This project was managed using **Jira** to simulate a real-world Agile workflow.
 [**🔗 View the Jira Project Board**] (https://mohamefamine2006.atlassian.net/?continue=https%3A%2F%2Fmohamefamine2006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZDYzMmI0MjNlNjZhNDM2NzkwNzFlMzQyMTIyZDdhMWYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
 
 ![Jira Board Preview]<img width="1647" height="822" alt="image" src="https://github.com/user-attachments/assets/912b253c-ca1f-42cb-b212-45b5a32ca36f" />
+
 
 
