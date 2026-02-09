@@ -30,7 +30,7 @@
 * **Route Performance:** "Top 10 Routes" leaderboard using Top N filtering.
 * **Seasonality:** Heatmap/Trend lines identifying peak travel months.
 
-<img width="1307" height="730" alt="Screenshot 2026-02-08 181823" src="https://github.com/user-attachments/assets/7c8432eb-494d-4ed2-95b1-d256981a7723" />
+<img width="1286" height="717" alt="Screenshot 2026-02-09 103713" src="https://github.com/user-attachments/assets/c2e46eb2-4c02-4680-bdcf-bbf52ed4a5af" />
 
 
 ## 🚀 How to Run This Project
@@ -48,6 +48,7 @@ This project was managed using **Jira** to simulate a real-world Agile workflow.
 [**🔗 View the Jira Project Board**] (https://mohamefamine2006.atlassian.net/?continue=https%3A%2F%2Fmohamefamine2006.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10000&atlOrigin=eyJpIjoiZDYzMmI0MjNlNjZhNDM2NzkwNzFlMzQyMTIyZDdhMWYiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9)
 
 ![Jira Board Preview]<img width="1647" height="822" alt="image" src="https://github.com/user-attachments/assets/912b253c-ca1f-42cb-b212-45b5a32ca36f" />
+
 
 
 
